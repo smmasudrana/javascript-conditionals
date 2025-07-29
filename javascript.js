@@ -82,6 +82,12 @@ else if (money >= 100) {console.log('vai apni business suru koren');}
 else{console.log('youtube onek resource ache okhan theke sikhen')}
 
 
+// Ternary condition
+const vage =15;
+vage >=18 ? console.log('vote dite parba') : console.log('vote deoar boyos hoini tomar')
+
+
+
 
 
 
