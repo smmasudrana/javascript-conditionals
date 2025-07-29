@@ -72,6 +72,17 @@ else{
 }
 
 
+// Nasted conditon
+const money =5500;
+
+if (money >=5500) {
+    console.log('programming heror course naw');}
+else if (money >= 600) {console.log('jhanker vai er boi kinen');}
+else if (money >= 100) {console.log('vai apni business suru koren');}
+else{console.log('youtube onek resource ache okhan theke sikhen')}
+
+
+
 
 
 
